@@ -2,6 +2,8 @@
 
 A collection of didactic and research notebooks with Mathematica tensor algebra add-on xAct.
 
+*Please cite the relevant publications below if you use these notebooks for any paper!* :-)
+
 ## Notes
 
 - **xAct_Proca maxwell.nb**: also containes TexAct examples (conversion of output from Mathematica to LaTeX)
